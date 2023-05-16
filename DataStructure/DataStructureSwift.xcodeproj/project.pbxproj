@@ -1,0 +1,86 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXFileReference section */
+		721AC25F2A13F40A00158497 /* Recursion.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Recursion.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		721AC2602A13F42F00158497 /* DynamicProgramming.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = DynamicProgramming.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		721AC2612A13F46B00158497 /* Array.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Array.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		721AC2622A13F47A00158497 /* String.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = String.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		721AC2632A13F49200158497 /* Tree.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Tree.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		721AC2642A13F4B800158497 /* GreedyAlgorithm.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = GreedyAlgorithm.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		721AC2652A13F4E400158497 /* BitsManipulation.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = BitsManipulation.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		721AC2582A13F3CC00158497 = {
+			isa = PBXGroup;
+			children = (
+				721AC25F2A13F40A00158497 /* Recursion.playground */,
+				721AC2652A13F4E400158497 /* BitsManipulation.playground */,
+				721AC2642A13F4B800158497 /* GreedyAlgorithm.playground */,
+				721AC2632A13F49200158497 /* Tree.playground */,
+				721AC2622A13F47A00158497 /* String.playground */,
+				721AC2612A13F46B00158497 /* Array.playground */,
+				721AC2602A13F42F00158497 /* DynamicProgramming.playground */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		721AC2592A13F3CC00158497 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastUpgradeCheck = 1420;
+			};
+			buildConfigurationList = 721AC25C2A13F3CC00158497 /* Build configuration list for PBXProject "DataStructureSwift" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 721AC2582A13F3CC00158497;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		721AC25D2A13F3CC00158497 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		721AC25E2A13F3CC00158497 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		721AC25C2A13F3CC00158497 /* Build configuration list for PBXProject "DataStructureSwift" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				721AC25D2A13F3CC00158497 /* Debug */,
+				721AC25E2A13F3CC00158497 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 721AC2592A13F3CC00158497 /* Project object */;
+}
